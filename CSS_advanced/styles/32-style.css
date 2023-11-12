@@ -179,7 +179,7 @@ h1, h2, h3, h4, h5, h6 {
 	vertical-align: bottom;
 }
 
-.card-work:hover .card-image img {
+.card-work:hover .card-image {
 	transform: scale(1.2);
 	transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
